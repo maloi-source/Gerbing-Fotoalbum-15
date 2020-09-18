@@ -43,7 +43,7 @@ image database program using microsoft access
 
 
 ## FAQ
-- https://www.gerbingsoft.de/faq.html
+- https://www.gerbingsoft.de/efaq.html
 
 ## Support
 - https://www.gerbingsoft.de/index.html
