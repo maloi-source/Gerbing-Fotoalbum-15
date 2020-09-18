@@ -46,7 +46,7 @@ image database program using microsoft access
 - https://www.gerbingsoft.de/faq.html
 
 ## Support
-- https://www.gerbingsoft.de/home.html 
+- https://www.gerbingsoft.de/index.html
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
