@@ -1,28 +1,21 @@
 # Gerbing-Fotoalbum-15
 image database program using microsoft access
 
-> coded with Visual Basic 6
-
-> target group - all users that want to organize their photos or videos
-
+- coded with Visual Basic 6
+- target group - all users that want to organize their photos or videos
 
 
-***INSERT ANOTHER GRAPHIC HERE***
 [![INSERT YOUR GRAPHIC HERE](https://www.gerbingsoft.de/images/GERBINGSoftware.gif)]()
 
 
 
-## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
+## Table of Contents
 
 - [Installation](#installation)
 - [Features](#features)
 - [FAQ](#faq)
 - [Support](#support)
 - [License](#license)
-
-
 
 
 ## Installation
@@ -44,10 +37,8 @@ image database program using microsoft access
 ---
 
 ## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
-
+## Usage
+## Documentation
 
 
 
