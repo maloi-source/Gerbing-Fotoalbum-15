@@ -37,9 +37,20 @@ image database program using microsoft access
 ---
 
 ## Features
-## Usage
-## Documentation
+- Manage photos/videos through several albums by tagging them
+- Powerful search for tags(keywords)
+- User defined database fields
+- migration to other pc without problems
+- import/export database fields from/to IPTC/EXIF fields of JPG fotos
+- show and/or set GEO position of JPG photos
 
+
+## Usage
+- You can download the latest release. There you get the self extracting exe for the installation of GERBING Fotoalbum 15.
+- You can cooperate with the developer by cloning this repository.
+
+## Documentation
+- go to the help folder and look for the .chm file. Download and read it.
 
 
 ## FAQ
