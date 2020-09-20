@@ -1,0 +1,12 @@
+AendernForm = 96, 96, 1414, 693, , 32, 32, 1219, 739, C
+Renam = 64, 64, 1283, 797, , 64, 64, 1251, 771, C
+Module1 = 128, 128, 1446, 725, 
+frmBenutzeGespeicherteAbfrage = 0, 0, 0, 0, C, 128, 128, 1315, 835, C
+frmConnectSQL = 0, 0, 0, 0, C, 160, 160, 1347, 867, C
+ModuleGDIPlus = 0, 0, 0, 0, C
+UnivbzGlobal = 0, 0, 0, 0, C
+CEncodedFile = 0, 0, 0, 0, C
+modUnicode = 0, 0, 0, 0, C
+bFolder = 0, 0, 0, 0, C
+GdipLoader = 0, 0, 0, 0, C
+GdipTool = 160, 160, 1478, 757, 
